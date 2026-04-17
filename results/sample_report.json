@@ -1,0 +1,52 @@
+[
+  {
+    "file": "01_51-B1-234.56_street_underexposed.jpg",
+    "plate": "LUD HS BR LP SS . LS SS ES SO 8 CO 8",
+    "confidence": 0.03230769230769231
+  },
+  {
+    "file": "02_51F-777.88_night_rain.jpg",
+    "plate": "51F-777.88",
+    "confidence": 0.91
+  },
+  {
+    "file": "03_43B-445.56_closeup_normal.jpg",
+    "plate": "KHÔNG NHẬN DẠNG ĐƯỢC",
+    "confidence": 0.0
+  },
+  {
+    "file": "04_51-B1-234.56_night_normal.jpg",
+    "plate": "51-B1-234.56",
+    "confidence": 0.91
+  },
+  {
+    "file": "05_43A-112.23_night_overexposed.jpg",
+    "plate": "43A-112.23",
+    "confidence": 0.91
+  },
+  {
+    "file": "06_92H-234.56_closeup_overexposed.jpg",
+    "plate": "92H 234.56",
+    "confidence": 0.11
+  },
+  {
+    "file": "07_47B-567.89_street_sunny.jpg",
+    "plate": "KHÔNG NHẬN DẠNG ĐƯỢC",
+    "confidence": 0.0
+  },
+  {
+    "file": "08_43-F3-123.45_night_underexposed.jpg",
+    "plate": "P TP HS E SN UON 5 ES PS SSC PS P74E -ARDAL. 7A F EOG OO PO E",
+    "confidence": 0.01894736842105263
+  },
+  {
+    "file": "09_47B-567.89_night_underexposed.jpg",
+    "plate": "JVGETMUNE PO OTE RINT CF . OO -. PO CLC CO F.C VD OF Y PO CO SOF PS -- UOC",
+    "confidence": 0.03428571428571429
+  },
+  {
+    "file": "10_51-B1-234.56_closeup_underexposed.jpg",
+    "plate": "CT . T .51-B1-23456 2L-2O4.I90- S SS SF . PS C - SS",
+    "confidence": 0.03538461538461539
+  }
+]
